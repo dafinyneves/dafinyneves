@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 
+### Olá, me chamo**Dafiny**,eu sou aluna do 1 ano A do ensino médio da turma de penamento computacional
 <!--
 **dafinyneves/dafinyneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
